@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tom/workspaces/thread_pool_cpp/build",
+  "command": "/usr/bin/g++  -I/home/tom/workspaces/thread_pool_cpp/src -g -o CMakeFiles/test.dir/src/main.cpp.o -c /home/tom/workspaces/thread_pool_cpp/src/main.cpp",
+  "file": "/home/tom/workspaces/thread_pool_cpp/src/main.cpp",
+  "output": "CMakeFiles/test.dir/src/main.cpp.o"
+}
+]
